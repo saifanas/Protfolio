@@ -17,4 +17,6 @@
 
   ### Demo Screeshots
 
-![Saif's-portfolio Desktop Demo](./readme-images/destop.png_Desktop Demo")
+![Screenshot 2024-08-08 223448](https://github.com/user-attachments/assets/de58738c-5766-4312-a622-6cbcdda38ee1)
+
+
