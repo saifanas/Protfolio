@@ -17,6 +17,7 @@
 
   ### Demo Screeshots
 
-![Screenshot 2024-08-08 223448](https://github.com/user-attachments/assets/de58738c-5766-4312-a622-6cbcdda38ee1)
+![![desktop png](https://github.com/user-attachments/assets/cf9709c5-d7eb-46f1-8470-b38da8501480)
+
 
 
